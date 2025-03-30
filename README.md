@@ -19,5 +19,5 @@
 
 3. Run:
    ```
-   "./bin/program"
+   ./bin/program
    ```
